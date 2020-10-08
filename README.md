@@ -1,6 +1,6 @@
 # Portfolio
 
-I have created a mobile website that is semantic HTML and have created two pages within my project that is mobile friendly. First page is you'll see a functional nav bar with a container that has a paragraph with an Resume buttton that links to my resume. Second I created a contact page with input of email, password and a message box. I've added my github page to access my repo and added linkedlin.  
+I have created a mobile website that is semantic HTML and have created two pages within my project that is mobile friendly. First page is you'll see a functional nav bar with a container that has a paragraph with an Resume buttton that links to my resume. Second I created a contact page with input of email, password and a message box. I've added my github page to access my repo and added linkedlin. Both Github and Linklin has update photos of me and including update infomation. 
 
 ## Technologies Used
 -HTML to modified changes
